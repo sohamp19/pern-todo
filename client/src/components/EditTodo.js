@@ -1,7 +1,7 @@
 import React from 'react';
 
 const EditTodo = ({ todo }) => {
-	return <div>Hello</div>;
+	return <div>Edit</div>;
 };
 
 export default EditTodo;
