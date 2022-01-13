@@ -22,3 +22,6 @@ To run in on your own local machine,
 6. ```
    npm run start
    ```
+   
+## Screenshot
+<img width="554" alt="image" src="https://user-images.githubusercontent.com/91748938/149355061-f01af8f8-49ff-48d4-bf8a-445811b2424c.png">
